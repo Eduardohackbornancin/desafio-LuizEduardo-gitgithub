@@ -1,0 +1,23 @@
+Aulas Otavio.
+Git é diferente do Github.
+
+- Controle de versão
+- Armazenamento em nuvem
+- Trabalho em equipe
+- Melhorar seu Cod
+- Reconhecimento
+
+Windows é usado os comandos:
+cd
+mkdir
+dir
+del/rmdir
+
+Para criar uma pasta é usado mkdir + nome da pasta. (não usar espaço entre as palavras, vai criar varias pastas separadas)
+
+Para criar um arquivo dentro da pasta é usado o comando echo + Nome do arquivo vai aparecer a palavra.
+se colocarmos echo > nome do arquivo.txt ele vai buscar se tem, senão ele vai criar.
+
+Sha1 - é um conjunto de funções hash criptografadas projetadas pela NSA.
+
+...
